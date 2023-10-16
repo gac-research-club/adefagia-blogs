@@ -1,23 +1,30 @@
-<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_20_52)">
-<circle cx="118.5" cy="118.5" r="118.5" fill="#E9D3B6"/>
-<path d="M56.2484 102.24L118.489 39.9999L134.737 56.2483L72.515 118.501L64.3817 110.371L56.2484 102.24Z" fill="#111111"/>
-<path d="M87.3762 133.338L149.602 71.1126L165.85 87.361L103.696 149.545L87.3762 133.338Z" fill="url(#paint0_linear_20_52)"/>
-<path d="M118.489 164.451L180.714 102.225L196.963 118.474L134.808 180.658L118.489 164.451Z" fill="url(#paint1_linear_20_52)"/>
-<path d="M118.489 196.978L40 118.489L56.2484 102.24L134.682 180.643L118.489 196.978Z" fill="#111111"/>
-<rect x="57.1165" y="101.378" width="22.9959" height="2.31484" transform="rotate(45 57.1165 101.378)" fill="#111111"/>
-</g>
-<defs>
-<linearGradient id="paint0_linear_20_52" x1="19.3438" y1="139.145" x2="118.1" y2="40.3885" gradientUnits="userSpaceOnUse">
-<stop stop-color="#E9D3B6" stop-opacity="0.75"/>
-<stop offset="1" stop-color="#111111"/>
-</linearGradient>
-<linearGradient id="paint1_linear_20_52" x1="19.8322" y1="138.657" x2="118.1" y2="40.3885" gradientUnits="userSpaceOnUse">
-<stop stop-color="#E9D3B6" stop-opacity="0.75"/>
-<stop offset="1" stop-color="#111111"/>
-</linearGradient>
-<clipPath id="clip0_20_52">
-<rect width="237" height="237" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<svg
+      fill="none"
+      height="100"
+      viewBox="0 0 816 817"
+      width="100"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        fill="#000"
+        d="M219 0L0 616l534.5 137 30.5 63.5 45.5-11.5L816 225.5l-40-11L492.5 345l-136-290L219 0z"
+      ></path>
+      <path
+        fill="#DBDBDB"
+        fillRule="evenodd"
+        d="M581.831 779.607l191.413-525.905-121.762 56.779-126.43 347.363 56.779 121.763zM239.353 45l-.144.395L509.818 625.72l31.44-86.38-214.77-460.577L239.353 45z"
+        clipRule="evenodd"
+      ></path>
+      <path
+        fill="#fff"
+        fillRule="evenodd"
+        d="M619.033 325.655l-145.69 67.936 19.018 40.784 104.906-48.919 21.766-59.801zM277.373 339.271l-26.895-57.677-90.686 249.158 12.268 3.287 31.365 8.404 36.257 9.715 89.666-41.812-19.018-40.783-96.81 45.143 63.853-175.435z"
+        clipRule="evenodd"
+      ></path>
+      <path
+        fill="#fff"
+        fillRule="evenodd"
+        d="M196.609 166.072l31.362-86.165.078-.216 299.694 642.697-81.96-21.961-210.325-451.044-108.617 298.422 189.293 50.72 35.86 76.902L41.5 592.23l.044-.119 22.272-61.194L196.61 166.072z"
+        clipRule="evenodd"
+      ></path>
+    </svg>

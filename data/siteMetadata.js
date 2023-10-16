@@ -1,12 +1,12 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-    title: 'enscribe.dev',
+    title: 'Mech-AI',
     author: 'enscribe',
-    headerTitle: 'enscribe.dev',
+    headerTitle: 'Mech-AI : Battle Arena',
     description: 'Freelance frontend web development and cybersecurity shenanigans',
     language: 'en-us',
     theme: 'dark', // system, dark or light
-    siteUrl: 'https://enscribe.dev/',
+    siteUrl: 'https://gaclab.com/',
     siteRepo: 'https://github.com/jktrn/enscribe.dev',
     siteLogo: '/static/images/logo.png',
     socialBanner: '/static/images/twitter-card.png',

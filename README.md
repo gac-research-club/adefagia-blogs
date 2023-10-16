@@ -2,14 +2,14 @@
 
 <div align="center">
 
-## enscribe.dev
+## Mech-AI
 
 [![CodeFactor]](https://www.codefactor.io/repository/github/jktrn/enscribe.dev)
 [![Next.js]](https://hexo.io)
 [![License]](LICENSE)
 [![Non-Code License]](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[enscribe.dev](https://enscribe.dev) is my personal information-security blog—built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), TypeScript, and deployed on [Vercel](https://vercel.com/). Based off the [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog/) blogging template.
+[Mech-AI](https://enscribe.dev) is my personal information-security blog—built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), TypeScript, and deployed on [Vercel](https://vercel.com/). Based off the [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog/) blogging template.
 
 </div>
 
